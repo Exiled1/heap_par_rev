@@ -1,0 +1,9 @@
+[metadata]
+addr = 0xc21
+size = 0x6b
+
+[header]
+last_change = 2024-01-08T04:01:09.395555Z
+name = "menu"
+addr = 0xc21
+type = "long"
