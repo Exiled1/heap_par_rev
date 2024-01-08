@@ -1,4 +1,10 @@
 [metadata]
 addr = 0xb49
 size = 0x60
-last_change = 2024-01-08T03:54:28.177990Z
+last_change = 2024-01-08T03:54:28.187854Z
+
+[header]
+last_change = 2024-01-08T03:54:28.187854Z
+name = "get_input"
+addr = 0xb49
+type = "long"
