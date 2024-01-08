@@ -1,4 +1,22 @@
 [metadata]
 addr = 0xbaa
 size = 0x76
-last_change = 2024-01-08T04:11:53.128612Z
+last_change = 2024-01-08T04:11:53.145367Z
+
+[header]
+last_change = 2024-01-08T04:11:53.145367Z
+name = "write_into"
+addr = 0xbaa
+type = "ulong"
+
+[header.args.0]
+offset = 0x0
+name = "arg1"
+type = "void*"
+size = 0x8
+
+[header.args.1]
+offset = 0x1
+name = "arg2"
+type = "int"
+size = 0x4
