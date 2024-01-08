@@ -1,4 +1,10 @@
 [metadata]
 addr = 0xc8d
 size = 0xff
-last_change = 2024-01-08T04:07:58.738541Z
+last_change = 2024-01-08T04:07:58.752290Z
+
+[header]
+last_change = 2024-01-08T04:07:58.752290Z
+name = "sub_c8d"
+addr = 0xc8d
+type = "long"
