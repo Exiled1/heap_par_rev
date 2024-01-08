@@ -1,0 +1,9 @@
+[metadata]
+addr = 0xd8d
+size = 0x47
+
+[header]
+last_change = 2024-01-08T04:22:37.572579Z
+name = "free_stuff"
+addr = 0xd8d
+type = "long"
