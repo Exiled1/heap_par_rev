@@ -1,10 +1,18 @@
 [metadata]
 addr = 0xb49
 size = 0x60
-last_change = 2024-01-08T03:54:28.187854Z
+last_change = 2024-01-08T04:02:20.997972Z
 
 [header]
 last_change = 2024-01-08T03:54:28.187854Z
 name = "get_input"
 addr = 0xb49
 type = "long"
+
+[stack_vars.-0x28]
+last_change = 2024-01-08T04:02:20.997972Z
+offset = -40
+name = "buf"
+type = "char"
+size = 0x0
+addr = 0xb49
