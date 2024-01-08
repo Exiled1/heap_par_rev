@@ -1,10 +1,43 @@
 [metadata]
 addr = 0xc8d
 size = 0xff
-last_change = 2024-01-08T11:49:24.435332Z
+last_change = 2024-01-08T11:51:09.331392Z
 
 [header]
-last_change = 2024-01-08T11:49:24.435332Z
 name = "alloc_fn"
 addr = 0xc8d
 type = "long"
+
+[stack_vars.-0x18]
+offset = -24
+name = "var_18"
+size = 0x0
+addr = 0xc8d
+
+[stack_vars.-0x14]
+offset = -20
+name = "i"
+type = "int"
+size = 0x0
+addr = 0xc8d
+
+[stack_vars.-0x10]
+offset = -16
+name = "var_10_1"
+type = "long"
+size = 0x0
+addr = 0xc8d
+
+[stack_vars.-0x8]
+offset = -8
+name = "__saved_rbp"
+type = "long"
+size = 0x0
+addr = 0xc8d
+
+[stack_vars.0x0]
+offset = 0x0
+name = "__return_addr"
+type = "void* const"
+size = 0x0
+addr = 0xc8d
