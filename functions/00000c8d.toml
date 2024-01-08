@@ -1,10 +1,18 @@
 [metadata]
 addr = 0xc8d
 size = 0xff
-last_change = 2024-01-08T04:08:35.315539Z
+last_change = 2024-01-08T04:08:38.882773Z
 
 [header]
-last_change = 2024-01-08T04:08:35.315539Z
+last_change = 2024-01-08T04:08:05.681074Z
 name = "sub_c8d"
 addr = 0xc8d
 type = "long"
+
+[stack_vars.-0x14]
+last_change = 2024-01-08T04:08:38.882773Z
+offset = -20
+name = "i"
+type = "int"
+size = 0x0
+addr = 0xc8d
