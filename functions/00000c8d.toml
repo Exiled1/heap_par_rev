@@ -1,10 +1,10 @@
 [metadata]
 addr = 0xc8d
 size = 0xff
-last_change = 2024-01-08T04:08:38.899434Z
+last_change = 2024-01-08T04:09:47.724384Z
 
 [header]
-last_change = 2024-01-08T04:08:38.899434Z
-name = "sub_c8d"
+last_change = 2024-01-08T04:09:47.724384Z
+name = "alloc_fn"
 addr = 0xc8d
 type = "long"
